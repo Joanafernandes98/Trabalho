@@ -1,1 +1,10 @@
 c:\users\joana\documents\visual studio 2015\Projects\exp\exp\bin\Debug\exp.exe.config
+C:\Users\Daniel Simao\Desktop\Trabalho-master\Trabalho\exp\bin\Debug\exp.exe.config
+C:\Users\Daniel Simao\Desktop\Trabalho-master\Trabalho\exp\bin\Debug\exp.exe
+C:\Users\Daniel Simao\Desktop\Trabalho-master\Trabalho\exp\bin\Debug\exp.pdb
+C:\Users\Daniel Simao\Desktop\Trabalho-master\Trabalho\exp\obj\Debug\exp.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Simao\Desktop\Trabalho-master\Trabalho\exp\obj\Debug\exp.Menu.resources
+C:\Users\Daniel Simao\Desktop\Trabalho-master\Trabalho\exp\obj\Debug\exp.Properties.Resources.resources
+C:\Users\Daniel Simao\Desktop\Trabalho-master\Trabalho\exp\obj\Debug\exp.csproj.GenerateResource.Cache
+C:\Users\Daniel Simao\Desktop\Trabalho-master\Trabalho\exp\obj\Debug\exp.exe
+C:\Users\Daniel Simao\Desktop\Trabalho-master\Trabalho\exp\obj\Debug\exp.pdb
